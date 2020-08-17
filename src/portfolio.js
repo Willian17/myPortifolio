@@ -11,9 +11,9 @@ const greeting = {
   logo_name: "Willian",
   nickname: "Willian17",
   subTitle:
-    "A passionate individual who always thrive to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "A passionate individual who always strives to work from end to end with the best technologies on the market: Node.js, ReactJS and React Native.",
   resumeLink:
-    "https://drive.google.com/file/d/1sgOwJH4rJVT61pYSUdBNgLAUf7bt5RKe/view?usp=sharing",
+    "https://drive.google.com/file/d/1VaUycWh29IAh7VKtuGQErUzpLSx8tyMJ/view?usp=sharing",
   portfolio_repository: "https://github.com/Willian17",
 };
 
@@ -159,11 +159,19 @@ const certifications = {
     },
     {
       title: "Bootcamp GoStack 11",
-      subtitle: "- Rocketseat",
+      subtitle: "Rocketseat",
       logo_path: "bootcamp.png",
       certificate_link: "https://pages.rocketseat.com.br/gostack/inscricao/13",
       alt_name: "Rocketseat",
       color_code: "#2A73CC",
+    },
+    {
+      title: "20 cursos + 20 projetos ",
+      subtitle: "Udemy",
+      logo_path: "udemy.webp",
+      certificate_link: "https://www.udemy.com/course/web-completo/",
+      alt_name: "Udemy",
+      color_code: "#fcd681",
     },
   ],
 };
@@ -255,51 +263,6 @@ const experience = {
           description:
             "Explore Machine Learning (ML) is a Google-sponsored program for university students to get started with Machine Learning. The curriculum offers 3 tracks of ML Content (Beginner, Intermediate, Advanced) and relies on university student facilitators to train other students on campus and to build opensource projects under this program.",
           color: "#4285F4",
-        },
-        {
-          title: "Microsoft Student Partner",
-          company: "Microsoft",
-          company_url: "https://www.microsoft.com/",
-          logo_path: "microsoft_logo.png",
-          duration: "Aug 2019 - May 2020",
-          location: "Hyderabad, Telangana",
-          description:
-            "Microsoft Student Partner is a program for university students to lead the awareness and use of Cloud especially Azure tools in the development of their projects and startups. Under this program, I have organised hands on workshops and seminars to teach Cloud Computing concepts to students.",
-          color: "#D83B01",
-        },
-        {
-          title: "Mozilla Campus Captain",
-          company: "Mozilla",
-          company_url: "https://www.mozilla.org/",
-          logo_path: "mozilla_logo.png",
-          duration: "Oct 2019 - May 2020",
-          location: "Kurnool, Andhra Pradesh",
-          description:
-            "My responsibility for this program was to create opensource environment in college and in the city. We have organised multiple hackathons on the problems collected by ordinary people from Kurnool city. We have build opensource community of our own college. The community is available at dsc_iiitdmk on github.",
-          color: "#000000",
-        },
-        {
-          title: "Developer Students Club Member",
-          company: "DSC IIITDM Kurnool",
-          company_url:
-            "https://www.linkedin.com/company/developer-students-club-iiitdm-kurnool",
-          logo_path: "dsc_logo.png",
-          duration: "Jan 2018 - May 2020",
-          location: "Kurnool, Andhra Pradesh",
-          description:
-            "We have well established developer club in college which is directly associated with Google Developers. We have developed many interdisciplinary projects under the membership of this club. We have organised workshops and activities on Android Application Development, Flutter and React JS.",
-          color: "#0C9D58",
-        },
-        {
-          title: "Developer Program Member",
-          company: "Github",
-          company_url: "https://github.com/",
-          logo_path: "github_logo.png",
-          duration: "July 2019 - PRESENT",
-          location: "Work From Home",
-          description:
-            "I am actively contributing to many opensource projects. I have contributed to projects of organisations like Tensorflow, Uber, Facebook, Google, Scikit-learn, Kiwix, Sympy, Python, NVLabs, Fossasia, Netrack, Keras etc. These contributions include bug fixes, feature requests and formulating peoper documentation for project.",
-          color: "#181717",
         },
       ],
     },
